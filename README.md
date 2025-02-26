@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProteinMPNN-Lightning
 
 This is a PyTorch Lightning implementation of the ProteinMPNN (Message Passing Neural Network) model for protein sequence design.
@@ -194,6 +193,7 @@ if __name__ == "__main__":
     analyze_structure(pdb_id, chain_id, data_dir)
 ```
 
+
 Example output:
 ```
 === Chain 1l3a_A Analysis ===
@@ -275,6 +275,3 @@ The model consists of:
 ## License
 
 This project is licensed under the same terms as the original ProteinMPNN implementation. 
-=======
-# ProteinMPNN-lightning
->>>>>>> b4196bdd15bdbfd64a924844edfff42ecef82f86
