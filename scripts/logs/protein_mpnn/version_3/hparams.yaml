@@ -1,0 +1,13 @@
+augment_eps: 0.1
+dropout: 0.1
+edge_features: 128
+hidden_dim: 128
+k_neighbors: 32
+learning_rate: 0.0001
+max_epochs: 100
+node_features: 128
+num_decoder_layers: 3
+num_encoder_layers: 3
+num_letters: 21
+vocab: 21
+warmup_steps: 10000
